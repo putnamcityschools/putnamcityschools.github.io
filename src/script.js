@@ -1,3 +1,3 @@
 window.onload = function() {
-    alert("Hydra Proxy 1.0");
+    alert("This Was Made For Special People i Gave The Site");
 };
