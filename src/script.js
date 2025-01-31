@@ -1,3 +1,3 @@
 window.onload = function() {
-    alert("This Was Made For Special People i Gave The Site");
+    alert("This Was Made For Certain People");
 };
